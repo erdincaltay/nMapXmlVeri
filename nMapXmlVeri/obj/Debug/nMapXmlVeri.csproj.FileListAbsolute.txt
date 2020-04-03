@@ -1,0 +1,14 @@
+C:\Users\beyven\source\repos\nMapXmlVeri\nMapXmlVeri\bin\Debug\nMapXmlVeri.exe.config
+C:\Users\beyven\source\repos\nMapXmlVeri\nMapXmlVeri\bin\Debug\nMapXmlVeri.exe
+C:\Users\beyven\source\repos\nMapXmlVeri\nMapXmlVeri\bin\Debug\nMapXmlVeri.pdb
+C:\Users\beyven\source\repos\nMapXmlVeri\nMapXmlVeri\obj\Debug\nMapXmlVeri.csprojAssemblyReference.cache
+C:\Users\beyven\source\repos\nMapXmlVeri\nMapXmlVeri\obj\Debug\nMapXmlVeri.csproj.CoreCompileInputs.cache
+C:\Users\beyven\source\repos\nMapXmlVeri\nMapXmlVeri\obj\Debug\nMapXmlVeri.exe
+C:\Users\beyven\source\repos\nMapXmlVeri\nMapXmlVeri\obj\Debug\nMapXmlVeri.pdb
+C:\Users\gacar\Desktop\nMapXmlVeri\nMapXmlVeri\nMapXmlVeri\bin\Debug\nMapXmlVeri.exe.config
+C:\Users\gacar\Desktop\nMapXmlVeri\nMapXmlVeri\nMapXmlVeri\bin\Debug\nMapXmlVeri.exe
+C:\Users\gacar\Desktop\nMapXmlVeri\nMapXmlVeri\nMapXmlVeri\bin\Debug\nMapXmlVeri.pdb
+C:\Users\gacar\Desktop\nMapXmlVeri\nMapXmlVeri\nMapXmlVeri\obj\Debug\nMapXmlVeri.csprojAssemblyReference.cache
+C:\Users\gacar\Desktop\nMapXmlVeri\nMapXmlVeri\nMapXmlVeri\obj\Debug\nMapXmlVeri.csproj.CoreCompileInputs.cache
+C:\Users\gacar\Desktop\nMapXmlVeri\nMapXmlVeri\nMapXmlVeri\obj\Debug\nMapXmlVeri.exe
+C:\Users\gacar\Desktop\nMapXmlVeri\nMapXmlVeri\nMapXmlVeri\obj\Debug\nMapXmlVeri.pdb
